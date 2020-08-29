@@ -269,7 +269,6 @@ def merge(start, mid, end):
 
 # sort array
 quickSort(0, ELEMENTS - 1)
-# mergeSort(0, ELEMENTS - 1)
 # draw finished state of array
 draw()
 # infinite loop to keep program responsive
